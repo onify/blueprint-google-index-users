@@ -39,7 +39,7 @@ Add the following settings via `/admin/settings`.
 |google_customerid|Google customer id|Customer id where the users are located|xxxxxxx|string|google|admin|
 |google_serviceaccount_email|Google service account email|Service account email|*.iam.gserviceaccount.com|string|google|admin|
 |google_serviceaccount_impersonate_email|Google service account impersonate email|What user to impersonate. Must be valid user in G Suite|*@onify.co|string|google|admin|
-|google_serviceaccount_privatekey|Google service account private key|The private key for the service account|----BEGIN PRIVATE KEY-----***|string|google|admin|
+|google_serviceaccount_privatekey|Google service account private key|The private key for the service account|----BEGIN PRIVATE KEY-----...|password|google|admin|
 
 ### Resources
 
