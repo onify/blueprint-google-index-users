@@ -1,6 +1,8 @@
+[![Project Status: WIP – Initial development is in progress, but there has not yet been a stable, usable release suitable for the public.](https://www.repostatus.org/badges/latest/wip.svg)](https://www.repostatus.org/#wip)
+
 # Onify Blueprint: Indexing Users from Google
 
-[![Project Status: WIP – Initial development is in progress, but there has not yet been a stable, usable release suitable for the public.](https://www.repostatus.org/badges/latest/wip.svg)](https://www.repostatus.org/#wip)
+This Blueprint shows authenticates with Google API using a service account and then index ALL users. When you have indexed all users from Google you can start to search and add actions to do automation like updating user information.
 
 ![alt text](flow.png "Flow")
 
