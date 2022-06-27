@@ -6,7 +6,7 @@
 
 This Blueprint shows authenticates with Google API using a service account and then index ALL users. When you have indexed all users from Google you can start to search and add actions to do automation like updating user information.
 
-![alt text](flow.png "Flow")
+![Onify Blueprint: Indexing Users from Google](blueprint.jpg "Blueprint")
 
 ## Requirements
 
